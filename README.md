@@ -15,6 +15,8 @@ URI da Licença: https://www.gnu.org/licenses/gpl-3.0.html
 Com este plugin, você pode calcular seus custos de envio ao criar pedidos no wp-admin.
 Selecione um método de envio e a taxa será calculada para você.
 
+* baseado na versão do Patrick Bußmann e melhorada principalmente pra o mercado brasileiro 
+
 == Descrição ==
 
 Se você criar pedidos para seus clientes via telefone (por exemplo), você acessa o wp-admin e cria um pedido.
