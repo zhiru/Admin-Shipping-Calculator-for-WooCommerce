@@ -1,8 +1,4 @@
-
-Memória atualizada
-Aqui está o texto ajustado e traduzido:
-
-=== Calculadora de Frete no Admin para WooCommerce ===
+# === Calculadora de Frete no Admin para WooCommerce ===
 Contribuidores: Felipe Almeman
 Tags: admin, frete, frete woocommerce, cálculo woocommerce, calcular frete do pedido na administração
 Requer pelo menos: 5.5
